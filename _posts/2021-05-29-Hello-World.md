@@ -8,6 +8,6 @@ categories: [Miscellaneous, Example]
 
 I'm Sam.
 
-![image](/images/me.png)
+![](images/me.png)
 
 This is a first post to test that everything is working.
