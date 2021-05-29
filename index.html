@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<header>
-TEXT HERE
-</header>
-
+<div class="header">
+	{% if page.url == "/" %}	
+	Testing
+</div>
 
 <div class="posts">
   {% for post in paginator.posts %}
